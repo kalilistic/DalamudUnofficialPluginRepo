@@ -1,10 +1,10 @@
-# Kal's Dalamud Sekrit Plugin Repository
+# Kal's Dalamud Unofficial Plugin Repository
 My third party plugins that are not on the main repo.
 
 ## How to use
 1. Open the plugin installer by typing `/xlplugins` in the chat window and pressing enter.
 2. Click the "Settings" button at the bottom left.
-3. Copy and Paste in the following URL into one of the blank inputs under the "Custom Plugin Repositories" section: `https://sekritplugins.kalilistic.io`
+3. Copy and Paste in the following URL into one of the blank inputs under the "Custom Plugin Repositories" section: `https://unofficial-plugins.kalilistic.io`
 4. Click the "+" button to add it to the list.
 5. Ensure the "Enabled" checkbox is checked.
 6. Click "Save and Close" at the bottom.
