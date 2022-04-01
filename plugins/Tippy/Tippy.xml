@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tippy</name>
+    </assembly>
+    <members>
+        <member name="T:Tippy.TippyAnimState">
+            <summary>
+            Tippy animation state.
+            </summary>
+        </member>
+        <member name="T:Tippy.TippyState">
+            <summary>
+            Tippy state.
+            </summary>
+        </member>
+    </members>
+</doc>
