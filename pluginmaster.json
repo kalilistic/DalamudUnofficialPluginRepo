@@ -2,7 +2,7 @@
     {
         "Author": "kalilistic",
         "Name": "Tippy",
-        "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings\n* D\u0330\u033b\u035ao\u0341\u032d\u0348 \u0360\u0349\u0333n\u032bo\u0322\u032f\u0326t\u0318 \u0324\u0324\u0355t\u034d\u0317\u034dr\u0362\u031e\u034du\u0327\u031d\u034ds\u0322\u0331\u0318t\u032a\u0330\u0355 \u0347a\u034d\u0319\u032dn\u035f\u0325\u0347y\u0326\u032b\u0317th\u0315\u033b\u0330in\u0335\u0353g\u0349\u0349\u0331 \u035c\u031eh\u0330\u031c\u033ce\u0327 \u033a\u032d\u035as\u035c\u035a\u033ba\u0341\u034e\u032by\u031d\u0349\u032cs\u0354",
+        "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings",
         "InternalName": "Tippy",
         "AssemblyVersion": "0.1.0.0",
         "RepoUrl": "https://github.com/kalilistic/tippy",
@@ -14,6 +14,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudUnofficialPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudUnofficialPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1648779918"
+        "LastUpdated": "1648780332"
     }
 ]
